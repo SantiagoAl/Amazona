@@ -16,6 +16,8 @@ node_modules
 
 # misc
 .DS_Store
+._.DS_Store
+._.gitignore
 .env
 .env.local
 .env.development.local
